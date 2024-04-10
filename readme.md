@@ -16,4 +16,8 @@ outros comandos git {
 
 --> MUDA O LOCAL ATUAL DA SUA BRANCH! <-- 
 altera tudo da branch ATUAL!
+para voltar na branch main, só utilizar o comando checkout 'branch'.
+4) merge "branch" >> mescla a branch selecionada com a atual
 }
+
+
