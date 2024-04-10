@@ -11,4 +11,5 @@ git {
 
 outros comandos git {
 1) add . >> adiciona TODOS os arquivos que foram alterados na area de staging
+2) push origin main >> mesma coisa só que sem o remote
 }
