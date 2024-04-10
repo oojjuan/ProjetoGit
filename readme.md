@@ -11,5 +11,9 @@ git {
 
 outros comandos git {
 1) add . >> adiciona TODOS os arquivos que foram alterados na area de staging
-2) push origin main >> mesma coisa só que sem o remote
+2) push origin main >> mesma coisa só que sem o remote, que serve quando for adicionar mais coisas novamente
+3) checkout -b "novo-botao" >> branch é uma ramificação do projeto que serve para desenvolver alguma feature (adicionar pág nova no projeto)
+
+--> MUDA O LOCAL ATUAL DA SUA BRANCH! <-- 
+altera tudo da branch ATUAL!
 }
